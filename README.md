@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramya2003-cyber
 - 👀 I’m interested in ..coding,hacking.
-- 🌱 I’m currently learning ..html,css,js,datastructures.
+- 🌱 I’m currently learning ..html,css,js,datastructures,flutter,aws.
 - 💞️ I’m looking to collaborate on  hacking community...
 - 📫 How to reach me email me
 
